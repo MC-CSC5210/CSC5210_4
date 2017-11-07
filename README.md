@@ -6,7 +6,7 @@ This project uses OpenGL, SFML, glew, and glm
 
 ----
 
-Project source can be downloaded from https://github.com/langillep/CSC5210_4.git
+Project source can be downloaded from https://github.com/MC-CSC5210/CSC5210_Project4.git
 
 ----
 
