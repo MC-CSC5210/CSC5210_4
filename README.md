@@ -34,7 +34,7 @@ Pat Langille
 **Pat:**
 
   Texturing:
-   *Drawing to the screen
+  *drawing to screen
 
 
 **John:**
