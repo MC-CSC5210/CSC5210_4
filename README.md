@@ -34,17 +34,10 @@ Pat Langille
 **Pat:**
 
   Texturing:
-
-  * reading in from txt file
-  * making card models
-  * texturing the card models 
-
-(I can also draw the cards to the screen)
+   *Drawing to the screen
 
 
 **John:**
-
-  *whatever you want*
 
 
 - camera
