@@ -23,19 +23,10 @@ Pat Langille
 
 **To Be Done**
 
-**Tom:** 
-
   Lighting:
 
   * Ambient
   * Point
-
-
-**Pat:**
-
-
-
-**John:**
 
 - animation & key event
 - toggle lighting
