@@ -33,15 +33,10 @@ Pat Langille
 
 **Pat:**
 
-  Texturing:
-  - drawing to screen
 
 
 **John:**
 
-
-- camera
-- table texture
 - animation & key event
 - toggle lighting
 
