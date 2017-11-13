@@ -25,11 +25,9 @@ Pat Langille
 
   Lighting:
 
-  * Ambient
   * Point
 
-- animation & key event
-- toggle lighting
+- toggle point lighting
 
 
 ----
